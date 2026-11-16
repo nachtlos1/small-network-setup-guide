@@ -196,4 +196,4 @@ I follow the **CompTIA troubleshooting methodology**: identify the problem → e
 
 ---
 
-*Author: [ArcSkt1](https://github.com/ArcSkt1) · CompTIA A+ · CompTIA Network+*
+*Author: [nachtlos1](https://github.com/nachtlos1) · CompTIA A+ · CompTIA Network+*
